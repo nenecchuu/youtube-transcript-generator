@@ -1,0 +1,3 @@
+TEMP_DOWNLOADED_OUTPUT_FILENAME = "temp_output"
+SUBTITLE_FORMAT = "vtt"
+OUTPUT_DIR = "output"
